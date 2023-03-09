@@ -1,6 +1,6 @@
 This is a simple example of how to compile a Cython file to a standalone executable in Windows, using Cython's `--embed` feature.
 
-###Video is [here](https://www.youtube.com/watch?v=Rw1N03Mp8xg&t=15s)
+### Video is [here](https://www.youtube.com/watch?v=Rw1N03Mp8xg&t=15s)
 
 There are very few good examples of how to do this with the most recent Visual Studio toolchain, so I thought I'd make this example for all who need it.
 
